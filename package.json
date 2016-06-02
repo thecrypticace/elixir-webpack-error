@@ -1,0 +1,8 @@
+{
+  "name": "test-case",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9",
+    "laravel-elixir": "file:../../elixir"
+  }
+}
